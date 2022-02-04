@@ -1,0 +1,1 @@
+set-netfirewallprofile -all -DefaultInboundAction Allow -DefaultOutboundAction Allow
